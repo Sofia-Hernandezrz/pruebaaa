@@ -1,0 +1,11 @@
+Print sin “()”
+raw_input
+zip()
+map()
+filter()
+.keys() método de diccionario
+.values() método de diccionario
+.items() método de diccionario
+División entre números enteros
+Manejos de excepciones
+
